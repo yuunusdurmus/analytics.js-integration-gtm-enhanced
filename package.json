@@ -1,34 +1,10 @@
 {
-  "_from": "git+https://github.com/yuunusdurmus/analytics.js-integration-mobitek.git",
-  "_id": "@segment/analytics.js-integration-mobitek@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha1-Rhhz+yAmuEsiDbZbv4X4w4bJlDU=",
-  "_location": "/@segment/analytics.js-integration-mobitek",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "@segment/analytics.js-integration-mobitek@git+https://github.com/yuunusdurmus/analytics.js-integration-mobitek.git",
-    "name": "@segment/analytics.js-integration-mobitek",
-    "escapedName": "@segment%2fanalytics.js-integration-mobitek",
-    "scope": "@segment",
-    "rawSpec": "git+https://github.com/yuunusdurmus/analytics.js-integration-mobitek.git",
-    "saveSpec": "git+https://github.com/yuunusdurmus/analytics.js-integration-mobitek.git",
-    "fetchSpec": "https://github.com/yuunusdurmus/analytics.js-integration-mobitek.git",
-    "gitCommittish": "master"
-  },
-  "_requiredBy": [
-    "/analyticsjs"
-  ],
-  "_resolved": "git+https://github.com/yuunusdurmus/analytics.js-integration-mobitek.git#571ab293b28523e0aee0e92deb48dec591e1b5b1",
-  "_spec": "@segment/analytics.js-integration-mobitek@git+https://github.com/yuunusdurmus/analytics.js-integration-mobitek.git",
-  "_where": "/Users/yunus/Project/ad/static_omnishop/node_modules/analyticsjs",
-  "bundleDependencies": false,
   "dependencies": {
     "@segment/analytics.js-integration": "^3.2.0",
     "global-queue": "^1.0.1"
   },
   "deprecated": false,
-  "description": "The Google Tag Manager analytics.js integration for Mobitek",
+  "description": "The Google Tag Manager enhanced",
   "keywords": [
     "analytics.js",
     "analytics.js-integration",
